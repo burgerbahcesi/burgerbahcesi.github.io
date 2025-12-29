@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Burger Bahçesi | Sipariş Kontrol</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    h1 {
+      color: #b30000;
+    }
+    .box {
+      background: white;
+      padding: 15px;
+      margin-top: 15px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🍔 Burger Bahçesi</h1>
+  <h2>Sipariş Kontrol Sayfası</h2>
+
+  <div class="box">
+    <p><strong>Durum:</strong> Sistem çalışıyor ✅</p>
+    <p>Bu sayfa sadece işletme içindir.</p>
+  </div>
+
+  <div class="box">
+    <p><strong>Sonraki adım:</strong></p>
+    <ul>
+      <li>Yemeksepeti yönlendirme</li>
+      <li>Trendyol Go linki</li>
+      <li>Günlük satış takibi</li>
+    </ul>
+  </div>
+
+</body>
+</html>
